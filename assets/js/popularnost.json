@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "popularity": true
+    },
+    {
+        "id": 2,
+        "popularity": false
+    }
+
+]
